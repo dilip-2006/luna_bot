@@ -1,0 +1,83 @@
+[0.008s] Invoking command in '/home/dk/luna/src/luna_bot/build/luna_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dk/luna/src/luna_bot -DCMAKE_INSTALL_PREFIX=/home/dk/luna/src/luna_bot/install/luna_bot
+[0.076s] -- The C compiler identification is GNU 11.4.0
+[0.145s] -- The CXX compiler identification is GNU 11.4.0
+[0.152s] -- Detecting C compiler ABI info
+[0.212s] -- Detecting C compiler ABI info - done
+[0.217s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.218s] -- Detecting C compile features
+[0.218s] -- Detecting C compile features - done
+[0.221s] -- Detecting CXX compiler ABI info
+[0.278s] -- Detecting CXX compiler ABI info - done
+[0.284s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.284s] -- Detecting CXX compile features
+[0.284s] -- Detecting CXX compile features - done
+[0.289s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.409s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.478s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.535s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.541s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.541s] -- Configured cppcheck include dirs: 
+[0.541s] -- Configured cppcheck exclude dirs and/or files: 
+[0.547s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.547s] -- Configured cpplint exclude dirs and/or files: 
+[0.548s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.550s] -- Added test 'lint_cmake' to check CMake code style
+[0.551s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.556s] -- Added test 'uncrustify' to check C / C++ code style
+[0.556s] -- Configured uncrustify additional arguments: 
+[0.557s] -- Added test 'xmllint' to check XML markup files
+[0.558s] -- Configuring done
+[0.560s] -- Generating done
+[0.561s] -- Build files have been written to: /home/dk/luna/src/luna_bot/build/luna_bot
+[0.564s] Invoked command in '/home/dk/luna/src/luna_bot/build/luna_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dk/luna/src/luna_bot -DCMAKE_INSTALL_PREFIX=/home/dk/luna/src/luna_bot/install/luna_bot
+[0.565s] Invoking command in '/home/dk/luna/src/luna_bot/build/luna_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dk/luna/src/luna_bot/build/luna_bot -- -j16 -l16
+[0.593s] Invoked command in '/home/dk/luna/src/luna_bot/build/luna_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dk/luna/src/luna_bot/build/luna_bot -- -j16 -l16
+[0.600s] Invoking command in '/home/dk/luna/src/luna_bot/build/luna_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dk/luna/src/luna_bot/build/luna_bot
+[0.604s] -- Install configuration: ""
+[0.604s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config
+[0.604s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_twist_mux.yaml
+[0.604s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_view_bot.rviz
+[0.604s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_drive_bot.rviz
+[0.604s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_empty.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_gazebo_params.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_joystick.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_mapper_params_online_async.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_main.rviz
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_my_controllers.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_gaz_ros2_ctl_use_sim.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_map.rviz
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_ball_tracker_params_sim.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_ball_tracker_params_robot.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_nav2_params.yaml
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_ros2_control.xacro
+[0.605s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_gazebo_control.xacro
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_robot.urdf.xacro
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_robot_core.xacro
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_rsp.launch.py
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_launch_robot.launch.py
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_online_async_launch.py
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_rplidar.launch.py
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_launch_sim.launch.py
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_navigation_launch.py
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_localization_launch.py
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds/luna_obstacles.world
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds/luna_empty.world
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/package_run_dependencies/luna_bot
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/parent_prefix_path/luna_bot
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/ament_prefix_path.sh
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/ament_prefix_path.dsv
+[0.606s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/path.sh
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/path.dsv
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.bash
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.sh
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.zsh
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.dsv
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/package.dsv
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/packages/luna_bot
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/cmake/luna_botConfig.cmake
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/cmake/luna_botConfig-version.cmake
+[0.607s] -- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/package.xml
+[0.608s] Invoked command in '/home/dk/luna/src/luna_bot/build/luna_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dk/luna/src/luna_bot/build/luna_bot

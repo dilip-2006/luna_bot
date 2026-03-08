@@ -1,0 +1,77 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dk/luna/src/luna_bot/build/luna_bot
+-- Install configuration: ""
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_twist_mux.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_view_bot.rviz
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_drive_bot.rviz
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_empty.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_gazebo_params.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_joystick.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_mapper_params_online_async.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_main.rviz
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_my_controllers.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_gaz_ros2_ctl_use_sim.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_map.rviz
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_ball_tracker_params_sim.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_ball_tracker_params_robot.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_nav2_params.yaml
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_ros2_control.xacro
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_gazebo_control.xacro
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_robot.urdf.xacro
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_robot_core.xacro
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_rsp.launch.py
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_launch_robot.launch.py
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_online_async_launch.py
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_rplidar.launch.py
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_launch_sim.launch.py
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_navigation_launch.py
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_localization_launch.py
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds/luna_obstacles.world
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds/luna_empty.world
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/package_run_dependencies/luna_bot
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/parent_prefix_path/luna_bot
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/ament_prefix_path.sh
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/ament_prefix_path.dsv
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/path.sh
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/path.dsv
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.bash
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.sh
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.zsh
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.dsv
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/package.dsv
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/packages/luna_bot
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/cmake/luna_botConfig.cmake
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/cmake/luna_botConfig-version.cmake
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/package.xml

@@ -1,0 +1,6 @@
+Invoking command in '/home/dk/luna/src/luna_bot/build/luna_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dk/luna/src/luna_bot -DCMAKE_INSTALL_PREFIX=/home/dk/luna/src/luna_bot/install/luna_bot
+Invoked command in '/home/dk/luna/src/luna_bot/build/luna_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dk/luna/src/luna_bot -DCMAKE_INSTALL_PREFIX=/home/dk/luna/src/luna_bot/install/luna_bot
+Invoking command in '/home/dk/luna/src/luna_bot/build/luna_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dk/luna/src/luna_bot/build/luna_bot -- -j16 -l16
+Invoked command in '/home/dk/luna/src/luna_bot/build/luna_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dk/luna/src/luna_bot/build/luna_bot -- -j16 -l16
+Invoking command in '/home/dk/luna/src/luna_bot/build/luna_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dk/luna/src/luna_bot/build/luna_bot
+Invoked command in '/home/dk/luna/src/luna_bot/build/luna_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dk/luna/src/luna_bot/build/luna_bot

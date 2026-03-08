@@ -1,0 +1,9 @@
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/uninstall.dir
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/luna_bot_uninstall.dir
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/test.dir
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/edit_cache.dir
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/rebuild_cache.dir
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/list_install_components.dir
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/install.dir
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/install/local.dir
+/home/dk/luna/src/luna_bot/build/luna_bot/CMakeFiles/install/strip.dir

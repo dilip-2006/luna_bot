@@ -1,0 +1,69 @@
+-- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dk/luna/src/luna_bot/build/luna_bot
+-- Install configuration: ""
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_twist_mux.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_view_bot.rviz
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_drive_bot.rviz
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_empty.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_gazebo_params.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_joystick.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_mapper_params_online_async.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_main.rviz
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_my_controllers.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_gaz_ros2_ctl_use_sim.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_map.rviz
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_ball_tracker_params_sim.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_ball_tracker_params_robot.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/config/luna_nav2_params.yaml
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_ros2_control.xacro
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_gazebo_control.xacro
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_robot.urdf.xacro
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/description/luna_robot_core.xacro
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_rsp.launch.py
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_launch_robot.launch.py
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_online_async_launch.py
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_rplidar.launch.py
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_launch_sim.launch.py
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_navigation_launch.py
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/launch/luna_localization_launch.py
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/mesh
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/mesh/luna_depth_camera.xacro
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/mesh/luna_inertial_macros.xacro
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/mesh/luna_camera.xacro
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/mesh/luna_lidar.xacro
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds/luna_obstacles.world
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/worlds/luna_empty.world
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/package_run_dependencies/luna_bot
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/parent_prefix_path/luna_bot
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/ament_prefix_path.sh
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/path.sh
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/environment/path.dsv
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.bash
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.sh
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.zsh
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/local_setup.dsv
+-- Installing: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/package.dsv
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/ament_index/resource_index/packages/luna_bot
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/cmake/luna_botConfig.cmake
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/cmake/luna_botConfig-version.cmake
+-- Up-to-date: /home/dk/luna/src/luna_bot/install/luna_bot/share/luna_bot/package.xml
